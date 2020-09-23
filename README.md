@@ -10,5 +10,5 @@ How it works :
 - Please fill in required informations in the settings section at the begin of the script.
 - The script can be launch from a terminal by navigating to it's location and then issuing the command "python3 ./main.py"
 
-Improvement :
+Future improvement :
 - print results in a table format
